@@ -1,0 +1,27 @@
+_repo: Sainte-Beuve-et-ses-inconnues_25615
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pons, A. J.
+    birthdate: 1829
+    deathdate: 1884
+    gutenberg_agent_id: '31459'
+    url: http://www.gutenberg.org/2009/agents/31459
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2008-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25615'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Sainte-Beuve, Charles Augustin, 1804-1869'
+title: Sainte Beuve et ses inconnues
+url: http://www.gutenberg.org/ebooks/25615
